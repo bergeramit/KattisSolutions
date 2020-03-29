@@ -1,1 +1,1 @@
-"# KattisSolutions" 
+KattisSolutions 
